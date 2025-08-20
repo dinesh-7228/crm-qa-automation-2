@@ -1,0 +1,12 @@
+2025-08-13 08:43:34:907 [Appium] Welcome to Appium v1.22.3
+2025-08-13 08:43:34:907 [Appium] Non-default server args:
+2025-08-13 08:43:34:908 [Appium]   address: 127.0.0.1
+2025-08-13 08:43:34:908 [Appium]   port: 1464
+2025-08-13 08:43:34:908 [Appium]   logFile: /home/cd-user/CD-Automation/cd-automation/SourabhFailure.txt
+2025-08-13 08:43:34:917 [Appium] Appium REST http interface listener started on 127.0.0.1:1464
+2025-08-13 08:43:35:175 [HTTP] --> GET /wd/hub/status
+2025-08-13 08:43:35:175 [HTTP] {}
+2025-08-13 08:43:35:176 [GENERIC] Calling AppiumDriver.getStatus() with args: []
+2025-08-13 08:43:35:177 [GENERIC] Responding to client with driver.getStatus() result: {"build":{"version":"1.22.3"}}
+2025-08-13 08:43:35:180 [HTTP] <-- GET /wd/hub/status 200 4 ms - 68
+2025-08-13 08:43:35:180 [HTTP] 

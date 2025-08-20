@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon May 05 17:41:21 IST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-0196-a05b-9eb7-000012561e40 
+on database directory /home/cd-user/CD-Automation/cd-automation/testmdb1 with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/home/cd-user/.m2/repository/org/apache/derby/derby/10.11.1.1/derby-10.11.1.1.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=1.8.0_372-b07
+user.dir=/home/cd-user/CD-Automation/cd-automation
+os.name=Linux
+os.arch=amd64
+os.version=6.8.0-57-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
